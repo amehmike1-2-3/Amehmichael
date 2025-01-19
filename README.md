@@ -7,7 +7,9 @@ I'm passionate about building innovative solutions and sharing my knowledge with
 
 #Contact Me
 Email: amehmichael2336@gmail.com.
-Website Content
+
+#Website Content
+
 -Explore my projects and interests
 Read my latest blog posts
 -Learn more about me
